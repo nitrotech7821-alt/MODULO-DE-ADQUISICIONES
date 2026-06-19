@@ -1,3 +1,5 @@
 streamlit
 pandas
 openpyxl
+firebase-admin
+google-cloud-storage
